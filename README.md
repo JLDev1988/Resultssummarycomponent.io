@@ -3,6 +3,12 @@
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
+# Results summary component
+![image](https://github.com/JLDev1988/Resultssummarycomponent.io/assets/93151103/60c04a1d-fe83-4979-aef3-3618715e38de)
+# Summary
+**Links** <br>
+**<a href="https://www.frontendmentor.io/solutions/results-summary-component-html-css-javascript-DdDvuirLo-LUTION" target="_blank"> Project Challenge</a> <br>
+**<a href="https://jldev1988.github.io/Resultssummarycomponent.io/" target="_blank"> DEMO</a>
 
 Thanks for checking out this front-end coding challenge.
 
